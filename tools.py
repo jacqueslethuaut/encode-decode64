@@ -1,4 +1,6 @@
-# tools.py
+# MIT License
+# 
+# Copyright (c) 2023 Jacques Le Thuaut
 
 import base64
 
